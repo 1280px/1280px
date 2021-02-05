@@ -1,5 +1,5 @@
 ### ✨ Personal website: https://1280px.github.io/
-_Project overview, about and contact info can be found here!_
+_Projects overview, about and contact info can be found here!_
 
 <!--
 **1280px/1280px** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
