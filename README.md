@@ -4,7 +4,7 @@
 
 Hello, its <b>1280px</b>! I'm a 17-year-old lazy student from Russia
 
-I like doing nice things with JavaScript. I'm learning new things about it and its libraries and slowly progressing on a <a href="https://roadmap.sh/frontend">frontend roadmap</a>, although it's pretty hard :D<br>
+I like doing nice things with JavaScript. I'm learning new things about it and its libraries, slowly progressing on a <a href="https://roadmap.sh/frontend">frontender roadmap</a>, although it's pretty hard :D<br>
 You can see some of my projects on this GitHub profile.
 
 I'm also doing small videos and animations for YouTube and making Minecraft JE resourcepacks (check my PMC, there's a lot of packs!!)
